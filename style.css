@@ -24,3 +24,7 @@ h2 {
 .paint {
     background-color: skyblue;
 }
+span {
+    font-weight: bold;
+    color:blue;
+}
